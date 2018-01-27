@@ -13,14 +13,14 @@
 
 ## Обрабатываемые запросы
 Бот принимает запросы на английском языке и обрабатывает запросы следующего вида:  
-* Madrid  
-  Weather in Barcelona  
-  Weather in San Francisco tomorrow  
-  Kazan Thursday  
-  Weather in New York in three days  
+* *Madrid*  
+* *Weather in Barcelona*  
+* *Weather in San Francisco tomorrow*  
+* *Kazan Thursday*  
+* *Weather in New York in three days*  
 
 Также бот понимает команды:
-  /start
-  /help
+* */start*
+* */help*
   
   
