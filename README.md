@@ -13,7 +13,7 @@
 
 ## Обрабатываемые запросы
 Бот принимает запросы на английском языке и обрабатывает запросы следующего вида:  
-  Madrid  
+*Madrid  
   Weather in Barcelona  
   Weather in San Francisco tomorrow  
   Kazan Thursday  
